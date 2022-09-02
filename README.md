@@ -1,2 +1,1 @@
-# dementia_app
-dementia
+# dementia-app
